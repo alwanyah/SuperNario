@@ -1,3 +1,5 @@
+// some basic character controller for a 2d person
+
 using UnityEngine;
 using UnityEngine.Events;
 
